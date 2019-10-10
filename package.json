@@ -1,0 +1,20 @@
+{
+  "name": "node-blog",
+  "version": "1.0.0",
+  "description": "用node搭建一个博客",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelaBiuBiuBiu/node-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelaBiuBiuBiu/node-blog/issues"
+  },
+  "homepage": "https://github.com/AngelaBiuBiuBiu/node-blog#readme"
+}
